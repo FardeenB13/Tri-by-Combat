@@ -1,5 +1,8 @@
 [package]
 name = "tri-by-combat"
+author = "Fardeen Bilal"
+description = "A turn-based team combat CLI game built in Rust."
+license = "MIT"
 version = "0.1.0"
 edition = "2024"
 
